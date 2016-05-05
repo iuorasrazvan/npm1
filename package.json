@@ -1,0 +1,22 @@
+{
+  "name": "irnpm1",
+  "version": "1.0.0",
+  "description": "irnpm1 npm lesson 1 ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iuorasrazvan/npm1.git"
+  },
+  "author": "Iuoras Razvan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iuorasrazvan/npm1/issues"
+  },
+  "homepage": "https://github.com/iuorasrazvan/npm1#readme",
+  "dependencies": {
+    "lodash": "^3.0.0"
+  }
+}
