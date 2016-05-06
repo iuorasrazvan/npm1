@@ -1,6 +1,6 @@
 {
-  "name": "irnpm1",
-  "version": "2.0.0",
+  "name": "ircnpm1",
+  "version": "1.0.1",
   "description": "irnpm1 npm lesson 1 ",
   "main": "index.js",
   "scripts": {
@@ -18,5 +18,6 @@
   "homepage": "https://github.com/iuorasrazvan/npm1#readme",
   "dependencies": {
     "lodash": "^3.0.0"
-  }
+  },
+  "devDependencies": {}
 }

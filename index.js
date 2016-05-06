@@ -4,5 +4,5 @@ var output = lodash.without([1, 2, 3], 1);
 console.log(output);
 
 exports.printMsg = function() {
-  console.log("This is a message from the demo package");
+  console.log("This is a message from the package ircnpm1");
 }
