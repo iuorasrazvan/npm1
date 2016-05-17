@@ -1,8 +1,10 @@
 var lodash = require('lodash');
+
+
  
 var output = lodash.without([1, 2, 3], 1);
 console.log(output);
 
 exports.printMsg = function() {
-  console.log("This is a message from the package ircnpm1");
+  console.log("This is a message from the package ircnpm1 v1.0.7");
 }
